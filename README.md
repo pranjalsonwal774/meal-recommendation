@@ -1,4 +1,4 @@
-# meal-recommendation
+# Meal-recommendation system using Machine Learning
 A meal recommendation system is an advanced technology solution designed to help individuals or 
 groups plan their meals by providing personalized meal suggestions based on various factors such as 
 personal preferences, health objectives, dietary restrictions, and available ingredients. These systems 
